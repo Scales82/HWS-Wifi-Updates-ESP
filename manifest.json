@@ -5,7 +5,7 @@
         {
             "chipFamily": "ESP32-S3",
             "ota": {
-                "md5": "6E4EFBE4905C0ECA0090A4382D608F0A",
+                "md5": "91899ABD15B15A5FE976E343558F1B12",
                 "path": "https://github.com/Scales82/HWS-Wifi-Updates-ESP/raw/refs/heads/main/firmware.ota.bin"
             }
         }
